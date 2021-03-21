@@ -1,0 +1,76 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    font-family:'Roboto', sans-serif;
+}
+.welcome {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    top: 100px;
+    font-weight: bolder;
+    position: relative;
+    color: blue;
+    padding-bottom: 10px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.text {
+    position: relative;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    top: 100px;
+    color: blue;
+    font-weight: bolder;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.btn-primary {
+    position: relative;
+    text-align: center;
+    background-color: slategray;
+    color: darkgreen;
+    margin: auto;
+    width: 100%;
+    padding: 2px;
+}
+.heading {
+    text-align: center;
+    width: 100%;
+    background: slategray;
+    color: snow;
+    padding-bottom: 0px;
+}
+
+.heading h1 {
+    font-size: 45px;
+}
+
+.heading p {
+    margin-top: 5px;
+    font-size: 20px;
+    top: 15px;
+ }
+
+.img-fluid {
+    background-image: url('https://wallpaperaccess.com/full/3434446.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+p {
+    position: relative;
+    top: 100px;
+    font-family:'Roboto', sans-serif;
+    font-size: 40px;
+    color: blue;
+    font-weight: bolder;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
+}
