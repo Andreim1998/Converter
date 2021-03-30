@@ -64,7 +64,7 @@ In this section i would like to talk about some testing i have done with the nex
 * The html has been checked with the help of W3C:(https://validator.w3.org/)
 
 4. CSS :
-*The CSS has been checked with the help of W3C:(https://validator.w3.org/)
+* The CSS has been checked with the help of W3C:(https://validator.w3.org/)
 
  ---
 
